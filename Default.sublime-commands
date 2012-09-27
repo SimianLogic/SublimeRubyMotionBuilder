@@ -12,6 +12,10 @@
 		"command": "ruby_motion_run"
 	},
 	{
+		"caption": "RubyMotionBuilder: Debug",
+		"command": "ruby_motion_debug"
+	},
+	{
 		"caption": "RubyMotionBuilder: Deploy",
 		"command": "ruby_motion_deploy"
 	},
